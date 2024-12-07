@@ -3,8 +3,15 @@
 Welcome to **Epicbyte** – a modern gaming website that combines stunning animations, responsive design, and immersive videos to create the ultimate gaming experience! 🚀  
 
 ---
+[Watch Website Preview Video](https://res.cloudinary.com/dkg9rnok3/video/upload/v1733584635/EpicByte_ojujuw.webm)
+---
 
-## 🌈 **Features**  
+![My Image](https://res.cloudinary.com/dkg9rnok3/image/upload/v1733584633/EpicByte-12-07-2024_08_38_PM_nwhvoh.png)
+![My Image](https://res.cloudinary.com/dkg9rnok3/image/upload/v1733584633/EpicByte-12-07-2024_08_40_PM_u8z4mf.png)
+
+
+
+##  **Features**  
 ✨ **Dynamic Animations**: Smooth, professional-grade animations powered by **GSAP**.  
 🎨 **Responsive Design**: Built with **Tailwind CSS** for a seamless experience on all devices.  
 🖌️ **Modern UI**: Polished and customizable components using **ShadCN**.  
