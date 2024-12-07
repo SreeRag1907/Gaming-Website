@@ -2,6 +2,10 @@
 
 Welcome to **Epicbyte** – a modern gaming website that combines stunning animations, responsive design, and immersive videos to create the ultimate gaming experience! 🚀  
 
+### 👇Visit the below link for the live site👇
+### [EpicByte](https://epic-byte.vercel.app/)
+
+
 ---
 [Watch Website Preview Video](https://res.cloudinary.com/dkg9rnok3/video/upload/v1733584635/EpicByte_ojujuw.webm)
 ---
