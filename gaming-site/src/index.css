@@ -144,7 +144,7 @@ body {
 }
 
 .indicator-line {
-  @apply h-3 w-px rounded-full bg-white transition-all duration-200 ease-in-out;
+  @apply h-4 w-px rounded-full bg-white transition-all duration-200 ease-in-out;
 }
 
 .indicator-line.active {
